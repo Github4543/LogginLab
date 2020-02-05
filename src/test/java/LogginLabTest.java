@@ -13,7 +13,7 @@ public class LogginLabTest {
     @org.junit.After
     public void tearDown() throws Exception {
     }
-
+a
     @org.junit.Test
     public void thresholdExceeds() {
         Integer finalLimit = 5;
